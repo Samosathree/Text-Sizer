@@ -1,0 +1,24 @@
+.heading{
+    font-size: 20px;
+    color: blueviolet;
+    margin: 0;
+    box-shadow: 5px 5px 5px rgb(0, 255, 21);
+}
+.note{
+    color: pink;
+    font-size: 18px;
+}
+.foot{
+    position: fixed;
+    box-shadow: 5px 5px 5px blue;
+    bottom: 0;
+    line-height: 2;
+    text-align: center;
+    width: 100%;
+    background-color: cyan;
+}
+canvas{
+    box-shadow: 5px 5px 5px magenta;
+border-radius: 20px;
+background-color: #ffb6c1;
+}
